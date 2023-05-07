@@ -1,16 +1,12 @@
 ---
-name: Tails Azimuth
+name: Paddy
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Student
+company: South Jincai Experimental Junior Middle School
+email: paddy7594@gmail.com
+twitter: https://www.bilibili.com/video/BV1GJ411x7h7
+linkedin: https://www.bilibili.com/video/BV1GJ411x7h7/
+github: https://github.com/Paddy2333
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Paddy, a self-proclaimed coding enthusiast, is currently on a mission to become a full-stack developer. He spends his days tinkering with Node.js, Golang, and dabbling in the world of machine learning. When he's not glued to his computer screen, you can find him trying to convince his cat to learn how to code with him. Paddy firmly believes that the key to success is a good interpersonal skill, a strong cup of coffee, and a never-ending supply of Stack Overflow tabs.
